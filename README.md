@@ -1,6 +1,6 @@
 - 👋 Bonjour, je suis @TimmermanRemi
-- 👀 Intéressé par le développement web et l'Ux design
-- 🌱 Actuellement en train d'apprendre sass 
+- 👀 Intéressé par tout ce qui touche au web mais pas que ...
+- 🌱 Actuellement en train d'apprendre de polymer
 - 📫 Comment me contacter ? remi.timmerman.pro@gmail.com
 
 <!---
