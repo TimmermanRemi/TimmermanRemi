@@ -1,6 +1,6 @@
 - 👋 Bonjour, je suis @TimmermanRemi
 - 👀 Intéressé par tout ce qui touche au web mais pas que ...
-- 🌱 Actuellement en train d'apprendre de polymer
+- 🌱 Actuellement en train d'apprendre de nouvelles technos
 - 📫 Comment me contacter ? remi.timmerman.pro@gmail.com
 
 <!---
